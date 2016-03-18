@@ -5,4 +5,4 @@ Dimitar Nikolov <br />
 Mario Krastev <br />
 Elitsa Tasheva <br />
 Martin Alexandrov <br />
-Cveti Krusteva <br />
+Kristian Stanimirov <br/>
