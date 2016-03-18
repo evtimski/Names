@@ -1,4 +1,4 @@
 # Names
-Ivaylo Georgiev,
-Svetoslav Ivanov
-Dimitar Nikolov
+Ivaylo Georgiev < br/>
+Svetoslav Ivanov < br/>
+Dimitar Nikolov < br/>
