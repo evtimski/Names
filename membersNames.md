@@ -6,3 +6,4 @@ Mario Krastev <br />
 Elitsa Tasheva <br />
 Martin Alexandrov <br />
 Kristian Stanimirov <br/>
+Valentin Petev<br />
