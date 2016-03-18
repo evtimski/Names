@@ -1,3 +1,4 @@
+<div style="border: 1px solid black;">
 # Names
 Ivaylo Georgiev <br />
 Svetoslav Ivanov <br />
@@ -7,6 +8,4 @@ Elitsa Tasheva <br />
 Martin Alexandrov <br />
 Kristian Stanimirov <br/>
 Aleksandar Angelov <br />
-Nikolay Minev<br />
-Cveti Krusteva <br />
-Valentin Petev<br />
+</div>
