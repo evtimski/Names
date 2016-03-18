@@ -1,3 +1,3 @@
 # Names
-Ivaylo Georgiev /n
+Ivaylo Georgiev,
 Svetoslav Ivanov
