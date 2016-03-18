@@ -7,3 +7,4 @@ Elitsa Tasheva <br />
 Martin Alexandrov <br />
 Kristian Stanimirov <br/>
 Aleksandar Angelov <br />
+Nikolay Minev<br />
